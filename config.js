@@ -1,7 +1,7 @@
 var CONFIG = {
     "data": {
      "_lastModified": 1731418948351,
-     "assetsPath": "C:\\Users\\amelia.bodin\\AppData\\Local\\Programs\\Gapminder Offline\\resources\\preview-data\\",
+     "assetsPath": "C:\\Users\\AMELIA~1.BOD\\AppData\\Local\\Temp\\1RHlBDrYoMzfeaISDssbCzjr6jy\\resources\\preview-data\\",
      "ddfPath": "./data/ddf_countries-main",
      "lastModified": 1731418948351,
      "path": "./data/ddf_countries-main",
