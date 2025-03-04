@@ -1,0 +1,8 @@
+﻿tag,name,parent
+handel,Handel,
+utslapp,Utsläpp,miljo_sek
+ekonomi,Ekonomi,
+miljo_sek,Miljösektorn,
+transp,Transportsektorn,
+styrm,Ekonomiska styrmedel,
+invest,Investering,
