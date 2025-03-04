@@ -10,6 +10,27 @@
     <link href="libs/barrankchart.css" rel="stylesheet" type="text/css">
     <link href="libs/linechart.css" rel="stylesheet" type="text/css">
 
+    <style>
+      .button {
+        border: none;
+            color: white;
+            padding: 8px 15px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 12px;
+            margin: 4px 2px;
+            cursor: pointer;
+            border-radius: 12px;
+            transition: background-color 0.3s;
+      }
+      
+      .tab-bubble {background-color: #789e9e;}
+      .tab-line {background-color: #ff6159;}
+      .tab-bar {background-color: #60849a;}
+      </style>
+
+
     <script src="libs/d3.js"></script>
     <script src="libs/vizabi.js"></script>
     <script src="libs/bubblechart.js"></script>
@@ -26,7 +47,17 @@
 	<h1>Transforma Länder</h1>
 		<div id="placeholder" style="width: 100%; height: 600px;"></div>
 
-    <script src="config.js"></script>
+
+    <div class="tabs">
+      <button class= "button tab-bubble" id="tab-bubble">Välj Bubble Chart</button>
+      <button class= "button tab-line" id="tab-line">Välj Line Chart</button>
+      <button class= "button tab-bar" id="tab-bar">Välj Barrank Chart</button>
+  </div>
+
+  <script src="config-bubble.js"></script>
+  <script src="config-line.js"></script>
+  <script src="config-rank.js"></script>
+  <script src="index.js"></script>
     <script>
 
       var ddfcsvReader = new DDFCsvReader.getDDFCsvReaderObject();
@@ -34,8 +65,22 @@
       Vizabi.Reader.extend("ext-csv", CsvReader.csvReaderObject);
       Vizabi.Reader.extend("excel", ExcelReader.excelReaderObject);
 
-      var viz = Vizabi('BubbleChart', document.getElementById('placeholder'), CONFIG);
+// New code to test different chart versions
+// Create initial chart (default to BubbleChart)
+var viz = Vizabi(CONFIG_BUBBLE.chartType, document.getElementById('placeholder'), CONFIG_BUBBLE);
 
+// Tab button logic
+document.getElementById('tab-bubble').addEventListener('click', function() {
+  viz = Vizabi(CONFIG_BUBBLE.chartType, document.getElementById('placeholder'), CONFIG_BUBBLE);
+});
+
+document.getElementById('tab-line').addEventListener('click', function() {
+  viz = Vizabi(CONFIG_LINE.chartType, document.getElementById('placeholder'), CONFIG_LINE);
+});
+
+document.getElementById('tab-bar').addEventListener('click', function() {
+  viz = Vizabi(CONFIG_BARRANK.chartType, document.getElementById('placeholder'), CONFIG_BARRANK);
+});
     </script>
   </body>
 </html>

@@ -1,4 +1,4 @@
-var CONFIG = {
+var CONFIG_BUBBLE = {
     "data": {
      "_lastModified": 1731418948351,
      "assetsPath": "C:\\Users\\AMELIA~1.BOD\\AppData\\Local\\Temp\\1RHlBDrYoMzfeaISDssbCzjr6jy\\resources\\preview-data\\",
