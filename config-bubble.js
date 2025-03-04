@@ -1,9 +1,9 @@
 var CONFIG_BUBBLE = {
     "data": {
-     "_lastModified": 1731418948351,
+     "_lastModified": 1741080105513,
      "assetsPath": "C:\\Users\\AMELIA~1.BOD\\AppData\\Local\\Temp\\1RHlBDrYoMzfeaISDssbCzjr6jy\\resources\\preview-data\\",
      "ddfPath": "./data/ddf_countries-main",
-     "lastModified": 1731418948351,
+     "lastModified": 1741080105513,
      "path": "./data/ddf_countries-main",
      "reader": "ddf"
     },
@@ -61,10 +61,9 @@ var CONFIG_BUBBLE = {
        "domainMin": null,
        "fixBaseline": null,
        "scaleType": "linear",
-       "spaceRef": null,
        "syncModels": [],
        "use": "indicator",
-       "which": "imp_total",
+       "which": "ae_cap_admin",
        "zoomedMax": null,
        "zoomedMin": null
       },
@@ -87,10 +86,9 @@ var CONFIG_BUBBLE = {
        "domainMin": null,
        "fixBaseline": null,
        "scaleType": "linear",
-       "spaceRef": null,
        "syncModels": [],
        "use": "indicator",
-       "which": "exp_total",
+       "which": "ae_cap_agri",
        "zoomedMax": null,
        "zoomedMin": null
       },
@@ -243,7 +241,7 @@ var CONFIG_BUBBLE = {
       "delayThresholdX4": 45,
       "dim": "year",
       "end": "2022",
-      "endBeforeForecast": "2023",
+      "endBeforeForecast": "2024",
       "endOrigin": null,
       "endSelected": "2022",
       "format": {
@@ -291,7 +289,7 @@ var CONFIG_BUBBLE = {
       },
       "lockNonSelected": 0,
       "margin": {
-       "left": 89.442,
+       "left": 79.938,
        "top": 0
       },
       "showForecastOverlay": false,
@@ -346,7 +344,7 @@ var CONFIG_BUBBLE = {
      "show_ticks": true,
      "sidebarCollapse": false,
      "splash": false,
-     "zoomOnScrolling": true
+     "zoomOnScrolling": false
     },
     "chartType": "BubbleChart"
    };
