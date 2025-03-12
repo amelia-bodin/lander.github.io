@@ -211,7 +211,7 @@ var CONFIG_LINE = {
   "chart": {
    "curve": "curveMonotoneX",
    "labels": {
-    "min_number_of_entities_when_values_hide": 2
+    "min_number_of_entities_when_values_hide": 2000
    },
    "showForecastOverlay": false,
    "whenHovering": {
