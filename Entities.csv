@@ -1,0 +1,284 @@
+﻿country,is--country,name,continent,is--EU,is--briics,is--nato,is--oecd,is--g7,is--sweden
+afg,TRUE,Afghanistan,Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+alb,TRUE,Albania,Europe,FALSE,Not BRIICS,NATO,Not OECD,Not G7,FALSE
+dza,TRUE,Algeria,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+asm,TRUE,American Samoa,Oceania,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+and,TRUE,Andorra,Europe,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+ago,TRUE,Angola,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+aia,TRUE,Anguilla,North America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+ata,TRUE,Antarctica,Other,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+atg,TRUE,Antigua and Barbuda,North America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+arg,TRUE,Argentina,South America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+arm,TRUE,Armenia,Europe & Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+abw,TRUE,Aruba,North America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+aus,TRUE,Australia,Oceania,FALSE,Not BRIICS,Not NATO,OECD,Not G7,FALSE
+aus_oc,TRUE,Australian Oceania,Oceania,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+aut,TRUE,Austria,Europe,TRUE,Not BRIICS,Not NATO,OECD,Not G7,FALSE
+aze,TRUE,Azerbaijan,Europe & Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+bhs,TRUE,Bahamas,North America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+bhr,TRUE,Bahrain,Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+bgd,TRUE,Bangladesh,Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+brb,TRUE,Barbados,North America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+blr,TRUE,Belarus,Europe,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+bel,TRUE,Belgium,Europe,TRUE,Not BRIICS,NATO,OECD,Not G7,FALSE
+bel_lux,TRUE,Belgium and Luxembourg,Europe,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+blz,TRUE,Belize,North America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+ben,TRUE,Benin,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+bmu,TRUE,Bermuda,North America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+btn,TRUE,Bhutan,Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+bol,TRUE,Bolivia,South America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+bes,TRUE,Bonaire Sint Eustatius and Saba,North America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+bih,TRUE,Bosnia and Herzegovina,Europe,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+bwa,TRUE,Botswana,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+bouisl,TRUE,Bouvet Island,Other,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+bra,TRUE,Brazil,South America,FALSE,BRIICS,Not NATO,Not OECD,Not G7,FALSE
+briics,TRUE,BRIICS economies - Brazil: Russia: India: Indonesia: China and South Africa,Other,FALSE,BRIICS,Not NATO,Not OECD,Not G7,FALSE
+iot,TRUE,British Indian Ocean Territory,Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+vgb,TRUE,British Virgin Islands,North America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+brn,TRUE,Brunei,Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+bgr,TRUE,Bulgaria,Europe,TRUE,Not BRIICS,NATO,Not OECD,Not G7,FALSE
+bunk_main,TRUE,Bunkering and maintenance,Other,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+bunk_third,TRUE,Bunkering and maintenance in trade with third country,Other,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+bunk_eu,TRUE,Bunkering and maintenance in trade within the EU,Other,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+bfa,TRUE,Burkina Faso,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+bdi,TRUE,Burundi,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+cpv,TRUE,Cabo Verde,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+khm,TRUE,Cambodia,Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+cmr,TRUE,Cameroon,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+can,TRUE,Canada,North America,FALSE,Not BRIICS,NATO,OECD,G7,FALSE
+cay,TRUE,Canary Islands,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+cym,TRUE,Cayman Islands,North America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+caf,TRUE,Central African Republic,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+ceu,TRUE,Ceuta,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+tcd,TRUE,Chad,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+chl,TRUE,Chile,South America,FALSE,Not BRIICS,Not NATO,OECD,Not G7,FALSE
+chn,TRUE,China (People's Republic of),Asia,FALSE,BRIICS,Not NATO,Not OECD,Not G7,FALSE
+cxr,TRUE,Christmas Island,Oceania,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+coc,TRUE,Cocos Islands,Oceania,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+col,TRUE,Colombia,South America,FALSE,Not BRIICS,Not NATO,OECD,Not G7,FALSE
+com,TRUE,Comoros,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+cog,TRUE,Congo,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+ckk,TRUE,Cook Islands,Oceania,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+cri,TRUE,Costa Rica,North America,FALSE,Not BRIICS,Not NATO,OECD,Not G7,FALSE
+civ,TRUE,Côte d'Ivoire,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+def_unspec,TRUE,Countries and territories not specified for trade or defence reasons,Other,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+third_unspec,TRUE,Countries and territories not specified for trade or defence reasons in trade with third country,Other,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+eu_unspec,TRUE,Countries and territories not specified for trade or defence reasons in trade within the EU,Other,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+hrv,TRUE,Croatia,Europe,TRUE,Not BRIICS,NATO,Not OECD,Not G7,FALSE
+cub,TRUE,Cuba,North America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+nld_curacao,TRUE,Curaçao,North America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+cyp,TRUE,Cyprus,Europe & Asia,TRUE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+cze,TRUE,Czechia,Europe,TRUE,Not BRIICS,NATO,OECD,Not G7,FALSE
+cod,TRUE,Democratic Republic of the Congo,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+dnk,TRUE,Denmark,Europe,TRUE,Not BRIICS,NATO,OECD,Not G7,FALSE
+dji,TRUE,Djibouti,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+dma,TRUE,Dominica,North America,FALSE,Not BRIICS,NATO,Not OECD,Not G7,FALSE
+dom,TRUE,Dominican Republic,North America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+tls,TRUE,East Timor,Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+ecu,TRUE,Ecuador,South America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+egy,TRUE,Egypt,Africa & Asia,FALSE,BRIICS,Not NATO,Not OECD,Not G7,FALSE
+slv,TRUE,El Salvador,North America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+gnq,TRUE,Equatorial Guinea,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+eri,TRUE,Eritrea,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+est,TRUE,Estonia,Europe,TRUE,Not BRIICS,NATO,OECD,Not G7,FALSE
+swz,TRUE,Eswatini,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+eth,TRUE,Ethiopia,Africa,FALSE,BRIICS,Not NATO,Not OECD,Not G7,FALSE
+eu,TRUE,EU27,Europe,TRUE,Not BRIICS,Not NATO,Not OECD,G7,FALSE
+euro,TRUE,Euro area (19 countries),Europe,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+eu_two,TRUE,European Union – 27 countries (from 01/02/2020),Europe,TRUE,Not BRIICS,Not NATO,Not OECD,G7,FALSE
+eu_three,TRUE,European Union - 27 countries (from 2020),Europe,TRUE,Not BRIICS,Not NATO,Not OECD,G7,FALSE
+eu_one,TRUE,European Union (28 countries),Europe,TRUE,Not BRIICS,Not NATO,Not OECD,G7,FALSE
+flk,TRUE,Falkland Islands,South America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+fro,TRUE,Faroe Islands,Europe,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+fji,TRUE,Fiji,Oceania,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+fin,TRUE,Finland,Europe,TRUE,Not BRIICS,NATO,OECD,Not G7,FALSE
+fra,TRUE,France,Europe,TRUE,Not BRIICS,NATO,OECD,G7,FALSE
+guf,TRUE,French Guiana,South America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+pyf,TRUE,French Polynesia,Oceania,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+fra_antarc,TRUE,French Southern and Antarctic Lands,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+g_seven,TRUE,G7,Other,FALSE,Not BRIICS,Not NATO,Not OECD,G7,FALSE
+gab,TRUE,Gabon,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+gmb,TRUE,Gambia,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+geo,TRUE,Georgia,Europe & Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+deu,TRUE,Germany,Europe,TRUE,Not BRIICS,NATO,OECD,G7,FALSE
+gha,TRUE,Ghana,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+gib,TRUE,Gibraltar,Europe,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+grc,TRUE,Greece,Europe,TRUE,Not BRIICS,NATO,OECD,Not G7,FALSE
+grl,TRUE,Greenland,North America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+grd,TRUE,Grenada,North America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+glp,TRUE,Guadeloupe,North America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+gum,TRUE,Guam,Oceania,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+gtm,TRUE,Guatemala,North America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+gin,TRUE,Guinea,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+gnb,TRUE,Guinea-Bissau,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+guy,TRUE,Guyana,South America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+hti,TRUE,Haiti,North America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+heard_a_mcd,TRUE,Heard and McDonald Islands,Oceania,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+hnd,TRUE,Honduras,North America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+hkg,TRUE,Hongkong,Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+hun,TRUE,Hungary,Europe,TRUE,Not BRIICS,NATO,OECD,Not G7,FALSE
+isl,TRUE,Iceland,Europe,FALSE,Not BRIICS,NATO,OECD,Not G7,FALSE
+ind,TRUE,India,Asia,FALSE,BRIICS,Not NATO,Not OECD,Not G7,FALSE
+idn,TRUE,Indonesia,Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+irn,TRUE,Iran,Asia,FALSE,BRIICS,Not NATO,Not OECD,Not G7,FALSE
+irq,TRUE,Iraq,Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+irl,TRUE,Ireland,Europe,TRUE,Not BRIICS,Not NATO,OECD,Not G7,FALSE
+isr,TRUE,Israel,Asia,FALSE,Not BRIICS,Not NATO,OECD,Not G7,FALSE
+ita,TRUE,Italy,Europe,TRUE,Not BRIICS,NATO,OECD,G7,FALSE
+jam,TRUE,Jamaica,North America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+jpn,TRUE,Japan,Asia,FALSE,Not BRIICS,Not NATO,OECD,G7,FALSE
+jor,TRUE,Jordan,Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+kaz,TRUE,Kazakhstan,Europe & Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+ken,TRUE,Kenya,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+kir,TRUE,Kiribati,Oceania,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+korea,TRUE,Korea,Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+kos,TRUE,Kosovo,Europe,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+kwt,TRUE,Kuwait,Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+kgz,TRUE,Kyrgyzstan,Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+lao,TRUE,Laos,Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+lva,TRUE,Latvia,Europe,TRUE,Not BRIICS,NATO,OECD,Not G7,FALSE
+lbn,TRUE,Lebanon,Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+lso,TRUE,Lesotho,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+lbr,TRUE,Liberia,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+lby,TRUE,Libya,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+lie,TRUE,Liechtenstein,Europe,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+ltu,TRUE,Lithuania,Europe,TRUE,Not BRIICS,NATO,OECD,Not G7,FALSE
+lux,TRUE,Luxembourg,Europe,TRUE,Not BRIICS,NATO,OECD,Not G7,FALSE
+mac,TRUE,Macau,Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+mdg,TRUE,Madagascar,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+mwi,TRUE,Malawi,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+mys,TRUE,Malaysia,Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+mdv,TRUE,Maldives,Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+mli,TRUE,Mali,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+mlt,TRUE,Malta,Europe,TRUE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+mhl,TRUE,Marshall Islands,Oceania,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+mtq,TRUE,Martinique,North America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+mrt,TRUE,Mauritania,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+mus,TRUE,Mauritius,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+myt,TRUE,Mayotte,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+mel,TRUE,Melilla,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+mex,TRUE,Mexico,North America,FALSE,Not BRIICS,Not NATO,OECD,Not G7,FALSE
+fsm,TRUE,Micronesia,Oceania,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+mda,TRUE,Moldova,Europe,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+mco,TRUE,Monaco,Europe,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+mng,TRUE,Mongolia,Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+mne,TRUE,Montenegro,Europe,FALSE,Not BRIICS,NATO,Not OECD,Not G7,FALSE
+msr,TRUE,Montserrat,North America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+mar,TRUE,Morocco,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+moz,TRUE,Mozambique,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+mmr,TRUE,Myanmar,Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+nam,TRUE,Namibia,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+nru,TRUE,Nauru,Oceania,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+npl,TRUE,Nepal,Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+nld,TRUE,Netherlands,Europe,TRUE,Not BRIICS,NATO,OECD,Not G7,FALSE
+ant,TRUE,Netherlands Antilles,North America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+ncl,TRUE,New Caledonia,Oceania,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+nzl,TRUE,New Zealand,Oceania,FALSE,Not BRIICS,Not NATO,OECD,Not G7,FALSE
+nzl_oc,TRUE,New Zealand Oceania,Oceania,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+nic,TRUE,Nicaragua,North America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+ner,TRUE,Niger,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+nga,TRUE,Nigeria,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+niu,TRUE,Niue,Oceania,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+nfk,TRUE,Norfolk Island,Oceania,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+prk,TRUE,North Korea,Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+mkd,TRUE,North Macedonia,Europe,FALSE,Not BRIICS,NATO,Not OECD,Not G7,FALSE
+mnp,TRUE,Northern Mariana Islands,Oceania,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+nor,TRUE,Norway,Europe,FALSE,Not BRIICS,NATO,OECD,Not G7,FALSE
+oecd_eu,TRUE,OECD - Europe,Europe,FALSE,Not BRIICS,Not NATO,OECD,Not G7,FALSE
+oecd_tot,TRUE,OECD - Total,Other,FALSE,Not BRIICS,Not NATO,OECD,Not G7,FALSE
+oecd_am,TRUE,OECD America,North America & South America,FALSE,Not BRIICS,Not NATO,OECD,Not G7,FALSE
+oecd_ac,TRUE,OECD Asia Oceania,Asia & Oceania,FALSE,Not BRIICS,Not NATO,OECD,Not G7,FALSE
+omn,TRUE,Oman,Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+pak,TRUE,Pakistan,Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+plw,TRUE,Palau,Oceania,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+pse,TRUE,Palestine,Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+pan,TRUE,Panama,North America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+png,TRUE,Papua New Guinea,Oceania,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+pry,TRUE,Paraguay,South America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+per,TRUE,Peru,South America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+phl,TRUE,Philippines,Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+pcn,TRUE,Pitcairn Islands,Oceania,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+pol,TRUE,Poland,Europe,TRUE,Not BRIICS,NATO,OECD,Not G7,FALSE
+polar,TRUE,Polar Regions,Other,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+prt,TRUE,Portugal,Europe,TRUE,Not BRIICS,NATO,OECD,Not G7,FALSE
+pri,TRUE,Puerto Rico,North America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+qat,TRUE,Qatar,Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+reu,TRUE,Reunion,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+rou,TRUE,Romania,Europe,TRUE,Not BRIICS,NATO,Not OECD,Not G7,FALSE
+rus,TRUE,Russia,Europe & Asia,FALSE,BRIICS,Not NATO,Not OECD,Not G7,FALSE
+rwa,TRUE,Rwanda,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+kna,TRUE,Saint Kitts and Nevis,North America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+lca,TRUE,Saint Lucia,North America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+vct,TRUE,Saint Vincent and the Grenadines,North America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+stbar,TRUE,Saint-Barthélemy,North America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+spm,TRUE,Saint-Pierre-et-Miquelon,North America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+wsm,TRUE,Samoa,Oceania,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+smr,TRUE,San Marino,Europe,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+shn,TRUE,Sankt Helena Ascension and Tristan da Cunha,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+stp,TRUE,Sao Tome and Principe,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+sau,TRUE,Saudi Arabia,Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+sen,TRUE,Senegal,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+srb,TRUE,Serbia,Europe,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+scg,TRUE,Serbia and Montenegro,Europe,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+syc,TRUE,Seychelles,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+sle,TRUE,Sierra Leone,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+sgp,TRUE,Singapore,Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+maf,TRUE,Sint-Maarten,North America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+svk,TRUE,Slovakia,Europe,TRUE,Not BRIICS,NATO,OECD,Not G7,FALSE
+svn,TRUE,Slovenia,Europe,TRUE,Not BRIICS,NATO,OECD,Not G7,FALSE
+slb,TRUE,Solomon Islands,Oceania,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+som,TRUE,Somalia,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+zaf,TRUE,South Africa,Africa,FALSE,BRIICS,Not NATO,Not OECD,Not G7,FALSE
+sgero_a_ssandw,TRUE,South Georgia and the South Sandwich Islands,South America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+kor,TRUE,South Korea,Asia,FALSE,Not BRIICS,Not NATO,OECD,Not G7,FALSE
+ssd,TRUE,South Sudan,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+esp,TRUE,Spain,Europe,TRUE,Not BRIICS,NATO,OECD,Not G7,FALSE
+lka,TRUE,Sri Lanka,Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+sdn,TRUE,Sudan,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+sur,TRUE,Suriname,South America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+swe,TRUE,Sweden,Europe,TRUE,Not BRIICS,NATO,OECD,Not G7,TRUE
+che,TRUE,Switzerland,Europe,FALSE,Not BRIICS,Not NATO,OECD,Not G7,FALSE
+syr,TRUE,Syrian Arab Republic,Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+twn,TRUE,Taiwan (province of China),Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+tjk,TRUE,Tajikistan,Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+tza,TRUE,Tanzania,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+tha,TRUE,Thailand,Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+high_seas,TRUE,The High Seas,Other,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+tgo,TRUE,Togo,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+tkl,TRUE,Tokelau,Oceania,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+ton,TRUE,Tonga,Oceania,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+tto,TRUE,Trinidad and Tobago,North America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+tun,TRUE,Tunisia,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+tkm,TRUE,Turkmenistan,Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+tca,TRUE,Turks and Caicos Islands,North America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+tuv,TRUE,Tuvalu,Oceania,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+tur,TRUE,Türkiye,Europe & Asia,FALSE,Not BRIICS,NATO,OECD,Not G7,FALSE
+uga,TRUE,Uganda,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+ukr,TRUE,Ukraine,Europe,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+are,TRUE,United Arab Emirates,Asia,FALSE,BRIICS,Not NATO,Not OECD,Not G7,FALSE
+gbr,TRUE,United Kingdom,Europe,FALSE,Not BRIICS,NATO,OECD,G7,FALSE
+usa,TRUE,United States,North America,FALSE,Not BRIICS,NATO,OECD,G7,FALSE
+usa_minor_out_isl,TRUE,United States Minor Outlying Islands,North America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+usa_oc,TRUE,United States Oceania,Oceania,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+vir,TRUE,United States Virgin Islands,North America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+unspec,TRUE,Unspecified countries and territories,Other,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+unspec_third,TRUE,Unspecified countries and territories in trade with third country,Other,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+unspec_eu,TRUE,Unspecified countries and territories in trade within the EU,Other,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+ury,TRUE,Uruguay,South America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+uzb,TRUE,Uzbekistan,Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+vut,TRUE,Vanuatu,Oceania,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+vat,TRUE,Vatican City State,Europe,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+ven,TRUE,Venezuela,South America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+vnm,TRUE,Viet Nam,Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+wlf,TRUE,Wallis and Futuna,Oceania,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+wbg,TRUE,West Bank/Gaza Strip,Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+esh,TRUE,Western Sahara,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+world,TRUE,World,Other,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+yem,TRUE,Yemen,Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+zmb,TRUE,Zambia,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+zwe,TRUE,Zimbabwe,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+row_asia,TRUE,RoW Asia-Pacific Region,Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+row_africa,TRUE,RoW Africa,Africa,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+row_europe,TRUE,RoW Europé,Europe,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+row_america,TRUE,RoW America,North America & South America,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
+row_me,TRUE,RoW Middle East,Asia,FALSE,Not BRIICS,Not NATO,Not OECD,Not G7,FALSE
